@@ -1,2 +1,1 @@
-# a17
-first fork
+story of the project
